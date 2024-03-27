@@ -1,0 +1,11 @@
+
+
+SYSTEM_START	-	desktop-agmdb8m	화 3 26 13:49:07 2024
+
+
+SYSTEM_INFO	Movie NX pro 13.0.1 2024-01-29
+Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+Loading Installed scripts...
+Loading User scripts...
+ApoConnection: Disconnecting...
+[ERROR] [Engine] D3D11Ext::shutdown(): 4 unreleased references
