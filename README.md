@@ -2,4 +2,5 @@
 프로젝트 관리 폴더
 
 ### Notion
-https://fork-cinema-a06.notion.site/14b99f550a8245b1ad1dc18adb14b867?pvs=4 
+
+https://fork-cinema-a06.notion.site/Fresh-Legends-103fcf23757841d4b0f5f2f78af857cc?pvs=4
